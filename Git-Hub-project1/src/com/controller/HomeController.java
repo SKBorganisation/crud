@@ -13,11 +13,12 @@ public class HomeController {
 	{
 	System.out.println("in a loginPage");
 		return "login";
+		
 	}
 	
 	@RequestMapping("/registerPage")
 	public String registerPage()
-	{
+	{System.out.println("after login");
 		System.out.println("in a registerPage");
 		return "register";
 	}
