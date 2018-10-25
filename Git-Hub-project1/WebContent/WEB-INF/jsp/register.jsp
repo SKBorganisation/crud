@@ -8,17 +8,17 @@
 <body>
 <form action="register">
 Rolename:-
-<select name="rolename">
-<option value="1">User</option>
-<option value="2">Admin</option>
-<option value="3">Manager</option>
+<select name="role">
+<option value="User">User</option>
+<option value="Admin">Admin</option>
+<option value="Manager">Manager</option>
 </select>
 <br>
-Name:-<input tye="text" name="fname">
+FName:-<input tye="text" name="fname">
 <br>
-Email:-<input type="text" name="lname">
+LName:-<input type="text" name="lname">
 <br>
-Address:-<input type="text" name="mobile">
+mobile:-<input type="text" name="mob">
 <br>
 Username:-<input type="text" name="username">
 <br>
