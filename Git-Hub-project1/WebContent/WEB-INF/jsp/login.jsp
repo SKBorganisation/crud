@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="login">
-<select>
+<select name="role">
 <option value="User">User</option>
 <option value="Admin">Admin</option>
 <option value="Manager">Manager</option>
