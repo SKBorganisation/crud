@@ -9,6 +9,7 @@ public class HomeController {
 	@RequestMapping("/")
 	public String loginPgae()
 			{
+		System.out.println("on login page.....");
 				return "login";
 			}
 
