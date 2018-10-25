@@ -15,6 +15,7 @@ public class HomeController {
 	@RequestMapping("/registerPage")
 	public String registerPage()
 	{
+		System.out.println("on register page");
 		return "register";
 	}
 
