@@ -10,6 +10,7 @@ public class HomeController {
 	public String loginPgae()
 			{
 		System.out.println("on login page.....");
+		System.out.println("login.......");
 				return "login";
 			}
 
