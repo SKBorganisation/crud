@@ -15,15 +15,15 @@ Rolename:-
 <option value="Manager">Manager</option>
 </select>
 <br>
-FName:-<input tye="text" name="fname">
+FName:-<input tye="text" name="fname" placeholder="enterFname">
 <br>
-LName:-<input type="text" name="lname">
+LName:-<input type="text" name="lname" placeholder="enterLname">
 <br>
-mobile:-<input type="text" name="mob">
+mobile:-<input type="text" name="mob" placeholder="entermobile">
 <br>
-Username:-<input type="text" name="username">
+Username:-<input type="text" name="username" placeholder="enterusername">
 <br>
-Password:-<input type="password" name="password">
+Password:-<input type="password" name="password" placeholder="enterpassword">
 <br>
 <input type="submit" value="register">
 
