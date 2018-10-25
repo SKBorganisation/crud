@@ -7,6 +7,12 @@
 </head>
 <body>
 <form action="register">
+Rolename:-
+<select name="rolename">
+<option value="1">User</option>
+<option value="2">Admin</option>
+<option value="3">Manager</option>
+</select>
 Name:-<input tye="text" name="fname">
 <br>
 Email:-<input type="text" name="lname">
