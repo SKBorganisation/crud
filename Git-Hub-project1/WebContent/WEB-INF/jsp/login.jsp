@@ -14,9 +14,9 @@
 <option value="Manager">Manager</option>
 </select>
 <br>
-Username:-<input type="text" name="username">
+Username:-<input type="text" name="username" placeholder="Enterusername">
 <br>
-Password:-<input type="password" name="password">
+Password:-<input type="password" name="password" placeholder="Enterpassword">
 <br>
 <input type="submit" value="login">
 <br>
