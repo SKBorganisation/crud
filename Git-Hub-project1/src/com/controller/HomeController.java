@@ -22,4 +22,12 @@ public class HomeController {
 		System.out.println("in a registerPage");
 		return "register";
 	}
+	
+	@RequestMapping("/register")
+	public String register()
+	{
+		System.out.println("in a register");
+		return "login";
+		
+	}
 }

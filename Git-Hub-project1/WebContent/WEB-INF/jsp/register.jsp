@@ -13,6 +13,7 @@ Rolename:-
 <option value="2">Admin</option>
 <option value="3">Manager</option>
 </select>
+<br>
 Name:-<input tye="text" name="fname">
 <br>
 Email:-<input type="text" name="lname">

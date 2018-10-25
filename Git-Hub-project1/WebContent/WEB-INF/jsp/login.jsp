@@ -8,10 +8,12 @@
 </head>
 <body>
 <form action="login">
+<select>
 <option value="User">User</option>
 <option value="Admin">Admin</option>
 <option value="Manager">Manager</option>
 </select>
+<br>
 Username:-<input type="text" name="username">
 <br>
 Password:-<input type="password" name="password">
